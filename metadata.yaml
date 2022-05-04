@@ -1,0 +1,35 @@
+_repo: Le-C0x153ur-chemine_67927
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lesueur, Daniel
+    alias: Lapauze, Jeanne Loiseau, Mme.
+    birthdate: 1860
+    deathdate: 1921
+    gutenberg_agent_id: '42911'
+    url: http://www.gutenberg.org/2009/agents/42911
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Jeanne_Lapauze
+    - https://en.wikipedia.org/wiki/Jeanne_Lapauze
+description: ''
+gutenberg_issued: '2022-04-26'
+identifiers:
+  gutenberg: '67927'
+language: fr
+pgterms:marc904: http://archive.org/details/lecoeurcheminepa00lapauoft
+pgterms:marc905: 20121111151502lesueur
+pgterms:marc906: '1903'
+pgterms:marc907: FR
+production_note: Clarity and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: France :Alphonse Lemerre,1903.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 20th century'
+- GITenberg
+title: Le Cœur chemine
+url: http://www.gutenberg.org/ebooks/67927
