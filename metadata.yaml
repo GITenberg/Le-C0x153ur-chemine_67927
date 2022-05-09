@@ -1,5 +1,8 @@
 _repo: Le-C0x153ur-chemine_67927
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67927-h/images/cover.jpg
 creator:
   author:
     agent_name: Lesueur, Daniel
@@ -12,6 +15,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Jeanne_Lapauze
     - https://en.wikipedia.org/wiki/Jeanne_Lapauze
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67927#Le-C0x153ur-chemine
 gutenberg_issued: '2022-04-26'
 identifiers:
   gutenberg: '67927'
